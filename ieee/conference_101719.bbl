@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{dirac}
+P.~A.~M. Dirac, {\em The Principles of Quantum Mechanics}.
+\newblock International series of monographs on physics, Clarendon Press, 1981.
+
+\bibitem{einstein}
+A.~Einstein, ``{Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
+  electrodynamics of moving bodies],'' {\em Annalen der Physik}, vol.~322,
+  no.~10, pp.~891--921, 1905.
+
+\bibitem{knuth-fa}
+D.~E. Knuth, {\em Fundamental Algorithms}, ch.~1.2.
+\newblock Addison-Wesley, 1973.
+
+\bibitem{knuthwebsite}
+D.~Knuth, ``Knuth: Computers and typesetting.''
+
+\end{thebibliography}
