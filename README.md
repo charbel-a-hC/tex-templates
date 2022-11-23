@@ -1,4 +1,4 @@
-# tex-templates
+# Latex Paper Templates
 This repo contains latex templates for different papers and reports.
 
 ## Table of Contents
